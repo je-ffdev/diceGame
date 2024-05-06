@@ -1,0 +1,14 @@
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\bin\Debug\net8.0\miniGame.exe
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\bin\Debug\net8.0\miniGame.deps.json
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\bin\Debug\net8.0\miniGame.runtimeconfig.json
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\bin\Debug\net8.0\miniGame.dll
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\bin\Debug\net8.0\miniGame.pdb
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\obj\Debug\net8.0\miniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\obj\Debug\net8.0\miniGame.AssemblyInfoInputs.cache
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\obj\Debug\net8.0\miniGame.AssemblyInfo.cs
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\obj\Debug\net8.0\miniGame.csproj.CoreCompileInputs.cache
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\obj\Debug\net8.0\miniGame.dll
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\obj\Debug\net8.0\refint\miniGame.dll
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\obj\Debug\net8.0\miniGame.pdb
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\obj\Debug\net8.0\miniGame.genruntimeconfig.cache
+C:\Users\Jeffery\Desktop\C# Projects\Mini game\miniGame\obj\Debug\net8.0\ref\miniGame.dll
